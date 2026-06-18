@@ -1,0 +1,89 @@
+# ninja log v5
+111	573	8009869277627062	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/device_15380641546761405204.dir/system_MIMXRT1064.o	5190cf4f59dd3dc6
+54	225	8009869274186060	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/freertos_kernel_5174011450799935587.dir/croutine.o	8fb4ca99b5c7fff7
+1106	1670	8009869288573234	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/common_4844698162460666594.dir/fsl_str.o	e5761424e3dc0a19
+1481	1886	8009869290722058	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/common_17472286640915757921.dir/threadManager.o	5ee163edaed2f698
+819	1335	8009869285119958	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_snvs_hp.o	8e59ca1b68cd422f
+1093	1683	8034999521605487	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/common_17472286640915757921.dir/realtimeClock.o	d095fd7493bf6fd8
+576	1010	8009869281870762	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_common.o	9174207389e85b66
+90	612	8009869277866385	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_adc_etc.o	27c4a42dd32b7acf
+1093	1132	8009869283316454	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/startup_6128450827118691628.dir/startup_MIMXRT1064.o	4f13675c8567f784
+79	282	8009869274781587	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/freertos_kernel_5174011450799935587.dir/list.o	e34bc6021bf23ef9
+280	864	8034999513426763	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/freertos_kernel_5174011450799935587.dir/tasks.o	4235dee9bdbd0716
+66	454	8009869276451498	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/freertos_kernel_5174011450799935587.dir/queue.o	b4529a09113cc7b4
+44	309	8009869274912622	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/freertos_kernel_5174011450799935587.dir/event_groups.o	dfe4fef4bceecf94
+1271	1478	8009869286717179	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/arm_cm4f_2591447306154855946.dir/port.o	493393523d998d67
+285	895	8009869280763260	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/freertos_kernel_5174011450799935587.dir/tasks.o	41c1e91df4c4ed7
+33	333	8009869275222217	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/freertos_kernel_5174011450799935587.dir/stream_buffer.o	76724da10d1e7281
+1298	1548	8009869287398590	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/memMang_8034902109530481416.dir/heap_4.o	bdac3e301fe45d64
+100	363	8009869275548599	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/freertos_kernel_5174011450799935587.dir/timers.o	4f15a7291ee97762
+23	599	8009869277707752	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/board_15934270115374689736.dir/hardware_init.o	42a210f65190cbc3
+549	1057	8034999515360921	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_common_arm.o	3a0cc3780320de64
+14	675	8009869278630204	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/board_15934270115374689736.dir/clock_config.o	9264c9eb5a0c378b
+366	815	8009869279807708	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_cache.o	8b50a6abbb891590
+771	1267	8009869284576954	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_gpc.o	f1f7fed0f915e4c2
+30	275	8034999507593159	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/arm_cm4f_2591447306154855946.dir/port.o	5d6298c637ca1d33
+227	800	8009869279693623	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_adc.o	dc5d9ec449a853db
+1013	1634	8009869288194167	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/common_4844698162460666594.dir/fsl_debug_console.o	aa914dcab4077a1
+312	849	8009869280012956	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_dcdc.o	b30cc4d229c730ba
+805	1320	8009869284935564	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/common_17472286640915757921.dir/queueManager.o	cc3ebb7a5f5577b2
+1384	1772	8009869289636062	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/common_4844698162460666594.dir/fsl_assert.o	59ab0b309a2b38c8
+458	1155	8009869282928845	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_clock.o	1b2b307fbe5ca8d3
+113	372	8034999508544295	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/freertos_kernel_5174011450799935587.dir/event_groups.o	65ba45d33ac8d3d
+476	911	8034999513902025	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_common.o	199510c7b8388086
+337	767	8009869279528820	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_common_arm.o	79a2a593efed7a3e
+642	1058	8009869282488405	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_pmu.o	5a37034bf21028ef
+82	290	8034999507638430	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/freertos_kernel_5174011450799935587.dir/list.o	aefce0a4c0235a55
+679	1143	8009869283215586	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_gpio.o	919c915f481e2b7b
+1371	1857	8009869290406367	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/common_17472286640915757921.dir/systemTimer.o	b87679f159fe74fc
+1160	1628	8009869288168915	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/uart_16500500352900307476.dir/fsl_adapter_lpuart.o	dca757b87bf4758
+898	1380	8009869285349201	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_src.o	d8555b9f4af00d2
+617	1089	8009869282730774	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_gpt.o	b5810df865b5b40c
+1134	1570	8009869287577006	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/xip_1815787651861247100.dir/fsl_flexspi_nor_boot.o	306fec4ec3c04e13
+4	389	8035005151344593	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/board_15934270115374689736.dir/pin_mux.o	49d893b0d2be534b
+604	1294	8009869284687836	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/drivers_7863770820933530928.dir/fsl_lpuart.o	18321a0b238bd322
+1146	1652	8009869288401963	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/board_15934270115374689736.dir/pin_mux.o	78428a94f7687b1d
+49	611	8034999510781860	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/uart_16500500352900307476.dir/fsl_adapter_lpuart.o	d76a1e8383bd5288
+4	638	8009869277903892	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/board_15934270115374689736.dir/board.o	7c0ba4d87409c9a2
+1063	1102	8009869282982745	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/arm_cm4f_2591447306154855946.dir/portasm.o	7c8734a590d5f2df
+1340	1736	8009869289227213	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/source_5634686896477721948.dir/unifiedScale.o	312605a5db4049d2
+585	1023	8034999514960909	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_gpc.o	260c073d028ad2e8
+632	1206	8034999516841462	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_gpio.o	8a859b62b8f6800
+1325	1749	8009869289370171	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/common_17472286640915757921.dir/realtimeClock.o	8386888d3607ec3a
+854	1366	8009869285533195	D:/Unified-Global-Firmware/UnifiedGTXproRT1064/Debug/Obj/common_17472286640915757921.dir/idleTask.o	a0767baa956bd53c
+22	200	8034999506847879	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/freertos_kernel_5174011450799935587.dir/croutine.o	bb9e539c92a5cfd3
+39	316	8034999507855281	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/memMang_8034902109530481416.dir/heap_4.o	a6e23af81b4fa343
+70	398	8034999508679517	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/freertos_kernel_5174011450799935587.dir/stream_buffer.o	fc720f2e8606d414
+103	473	8034999509565768	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/freertos_kernel_5174011450799935587.dir/queue.o	220ec37be4428710
+293	546	8034999510281360	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/freertos_kernel_5174011450799935587.dir/timers.o	7c4ef24143e094c0
+4	628	8034999510761816	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/board_15934270115374689736.dir/board.o	6463c039b20d6416
+92	659	8034999511072263	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_adc_etc.o	203a78217e07bb69
+202	713	8034999511922194	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/device_15380641546761405204.dir/system_MIMXRT1064.o	f2576a8df3907921
+375	924	8034999513643977	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_cache.o	7e9188e574838fe8
+321	878	8034999513426763	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_adc.o	5d4977cbfd5ea6c5
+401	991	8034999514647811	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_clock.o	bb106e83fb54b829
+663	1176	8034999516523074	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_gpt.o	f90d4f277262ab58
+616	1088	8034999515582106	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_dcdc.o	1ea97959e967bea5
+868	1379	8034999518419973	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/common_17472286640915757921.dir/idleTask.o	f142b4e00fa60791
+915	1394	8034999518456221	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_pmu.o	701b03c718afaee8
+928	1348	8034999518221438	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_src.o	309223dc84e1f518
+881	1433	8034999518978663	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_snvs_hp.o	ea87fc333a3c6d1e
+1447	1491	8034999519764638	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/startup_6128450827118691628.dir/startup_MIMXRT1064.o	116b619f08a90bde
+4	35	8035005538292221	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/arm_cm4f_2591447306154855946.dir/portasm.o	d9666bb446cb31da
+717	1444	8034999518926326	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/drivers_7863770820933530928.dir/fsl_lpuart.o	c3923d52bd650681
+1398	1795	8034999522782015	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/xip_1815787651861247100.dir/fsl_flexspi_nor_boot.o	78b098ab3cd8b80
+1061	1614	8034999520902120	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/common_17472286640915757921.dir/queueManager.o	c9f5c55b6fc9e2fc
+4	349	8035005498145525	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/common_17472286640915757921.dir/systemTimer.o	57e4abbda46c64ab
+24	457	8035005152050078	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/common_17472286640915757921.dir/threadManager.o	6327b3e55f654699
+1352	1779	8034999522567081	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/source_5634686896477721948.dir/unifiedScale.o	2f12bb29fc79139d
+1384	1765	8034999522461272	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/common_4844698162460666594.dir/fsl_assert.o	da1abbb90a02bcd4
+1210	1798	8034999522766938	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/common_4844698162460666594.dir/fsl_str.o	5248a8eef494c3a0
+44	392	8035005151344593	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/board_15934270115374689736.dir/hardware_init.o	124e6240ecb9560e
+1179	1732	8034999522101620	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/common_4844698162460666594.dir/fsl_debug_console.o	9df6477a1647e57b
+1473	1879	8034999523578863	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/board_15934270115374689736.dir/clock_config.o	2592e8b870cfb986
+37	152	8035005539340807	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Exe/unified-gt-xpro.out	eb1824a8e9709a68
+23	52	8035007510442666	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/arm_cm4f_2591447306154855946.dir/portasm.o	d9666bb446cb31da
+4	295	8035007512752053	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/board_15934270115374689736.dir/pin_mux.o	49d893b0d2be534b
+296	414	8035007513923317	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Exe/unified-gt-xpro.out	eb1824a8e9709a68
+4	34	8035010640208284	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Obj/arm_cm4f_2591447306154855946.dir/portasm.o	d9666bb446cb31da
+36	161	8035010641308826	D:/Unified-Global-Firmware/UnifiedGTXproRT1064 -Framework/Debug/Exe/unified-gt-xpro.out	eb1824a8e9709a68
